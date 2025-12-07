@@ -29,7 +29,7 @@ aws-cloud-project
 └── screenshots/
 
 
-## 🛠 Steps to Deploy on AWS S3
+## Steps to Deploy on AWS S3
 
 ### 1. Create an S3 Bucket
 - Go to AWS S3 console  
