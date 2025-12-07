@@ -67,7 +67,7 @@ Replace `your-bucket-name` with your bucket's name.
   ]
 }
 
-### 5️⃣ Get the Website URL
+### Get the Website URL
 Go to:
 **S3 → Bucket → Properties → Static Website Hosting**
 
@@ -95,6 +95,6 @@ For any queries or improvements, feel free to reach out.
 
 ---
 
-## 📄 License
+## License
 This project is licensed under the **MIT License**.
 
